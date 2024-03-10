@@ -22,7 +22,7 @@
 # ToDo 
 - Exterior case / plate for the board
   - Since I'm using Kailh hotswap sockets, I will probably need a plate to hold the switches in place 
-
+- Rename KiCad project name from my-split to something else 
 
 # PCB Design
 Front
