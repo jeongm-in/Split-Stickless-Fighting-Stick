@@ -63,12 +63,14 @@ After the assembly, I installed GP2040-CE firmware and tested every button is wo
 
 Luckily I somehow soldered everything fine and it worked perfectly. Put on some keycaps from my "Mechanical Keyboard days" for fun.
 
-![Finsihed](Images/06.Finished.JPG)
+![Finished](Images/06.Finished.JPG)
 
 It is a little awkward so I'll need some time to get used to it, but I'm glad it all works correctly. Hotswap sockets are surprisingly sturdy and I don't think I would even need a face plate to hold the switches in place. I would still need some spacers with rubber feet to prevent boards from moving around, but it is ready for use now. 
 
 Overall this was a very fun project, I'm glad I actually finished a project this time. I still have 4 more PCBs so I may assemble remainder when I get bored. Might also come back with V2 sometime in the future with more improvements. 
 
+
+Also I uploaded the GP2040-CE keymapping configuration file under the Firmware irectory, so that the same key mapping can be easily copied into new boards. 
 
 # ToDo 
 - Exterior case / plate / feet for the board
