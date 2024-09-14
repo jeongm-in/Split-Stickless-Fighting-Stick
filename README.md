@@ -31,7 +31,9 @@
 | 13 | S1 (Option) | 28 | B3 | 
 | 14 | None | 29 | None |
 
-See [Documentation](https://gp2040-ce.info/usage) for button mappings
+* See [Documentation](https://gp2040-ce.info/usage) for button mappings
+
+* Also see [Config](https://github.com/jeongm-in/Split-Stickless-Fighting-Stick/blob/main/Config/gp2040ce_backup_20240914181731127.gp2040) directory to download the config file that can be loaded in GP2040-CE
 
 # Parts 
 - 1 Raspberry Pi Pico
@@ -69,8 +71,6 @@ It is a little awkward so I'll need some time to get used to it, but I'm glad it
 
 Overall this was a very fun project, I'm glad I actually finished a project this time. I still have 4 more PCBs so I may assemble remainder when I get bored. Might also come back with V2 sometime in the future with more improvements. 
 
-
-Also I uploaded the GP2040-CE keymapping configuration file under the Firmware irectory, so that the same key mapping can be easily copied into new boards. 
 
 # ToDo 
 - Exterior case / plate / feet for the board
