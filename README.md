@@ -3,7 +3,7 @@
 
 # Design 
 - Split between left (Movement) and right (Other controls)
-- Followed [ai03's PCB Design[(https://wiki.ai03.com/books/pcb-design)] guide for the KiCad part
+- Followed [ai03's PCB Design](https://wiki.ai03.com/books/pcb-design) guide for the KiCad part
 - Uses RJ45 (Commonly used in Ethernet cables) to connect both sides 
     - TRRS Cables (Commonly used in headphone jacks with microphone) are usually used in split keyboards, but this only supports up to 4 connections.
     - I needed minimum 5 pins (UP, LEFT, RIGHT, DOWN, and GND) on the Left, so I had to use something with more connections. 
